@@ -1,0 +1,6 @@
+{
+  "name": "AtCoder AC",
+  "description": "AtCoderでACするとACするChrome拡張機能です。",
+  "version": "0.1.0",
+  "manifest_version": 2
+}
