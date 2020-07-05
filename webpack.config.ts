@@ -25,9 +25,7 @@ const config: ConfigurationFactory = () => ({
   },
   plugins: [
     new CopyWebpackPlugin({
-      patterns: [
-        { from: "static", to: ".", },
-      ],
+      patterns: [{ from: "static", to: "." }],
     }),
   ],
 });
